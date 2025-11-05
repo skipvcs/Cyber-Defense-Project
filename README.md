@@ -25,34 +25,14 @@ Conclude the investigation by compiling a timeline for the attack and writing a 
 
 <br />
 
+<h2>Description of files</h2>
 
-<h2>Languages and Utilities Used</h2>
+1. The CISO.GUIDE FINAL REPORT:
+   This is the SBAR created for the project
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+2. The Task 6 Technical Appendix:
+   This the actual step by step actions I took to complete the project from beginning to end. These are not instructions but the actual steps I took. Doing screen shots as I went along.
+   I would go back time and time again making sure I captured all my work...hence Rev D.
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+3. The Timeline is the beginning to end of the simulated project as the incident occured identifying the process of the attack.
 
