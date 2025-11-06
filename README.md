@@ -37,6 +37,7 @@ Conclude the investigation by compiling a timeline for the attack and writing a 
 3. The Timeline is the beginning to end of the simulated project as the incident occured identifying the process of the attack.
 
 
+<br />
 
 <h2>Tools Used</h2>
 
