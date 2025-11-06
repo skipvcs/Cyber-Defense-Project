@@ -25,16 +25,19 @@ Conclude the investigation by compiling a timeline for the attack and writing a 
 
 <br />
 
-<h2>Description of files</h2>
+<h2>Learning Outcomes</h2>
 
-1. The CISO.GUIDE FINAL REPORT:
-   This is the SBAR created for the project
+- Analyze network traffic.
+- Analyze network and system logs using a security information and event monitoring system.
+- Cross-correlate log information and network packet traffic
+- Use online sandboxes for static and dynamic analysis of malicious executable files to identify indicators of compromise.
+- Use threat intelligence.
+- Identify malware.
+- Perform memory forensics.
+- Perform disk forensics.
+- Compile a comprehensive timeline of a cyber-attack.
+- Report appropriately to technical and non-technical stakeholders
 
-2. The Task 6 Technical Appendix:
-   This the actual step by step actions I took to complete the project from beginning to end. These are not instructions but the actual steps I took. Doing screen shots as I went along.
-   I would go back time and time again making sure I captured all my work...hence Rev D.
-
-3. The Timeline is the beginning to end of the simulated project as the incident occured identifying the process of the attack.
 
 
 <br />
@@ -50,3 +53,14 @@ Conclude the investigation by compiling a timeline for the attack and writing a 
 - Autopsy (disk forensics)
 - Linux operating system
 
+
+<h2>Description of files</h2>
+
+1. The CISO.GUIDE FINAL REPORT:
+   This is the SBAR created for the project
+
+2. The Task 6 Technical Appendix:
+   This the actual step by step actions I took to complete the project from beginning to end. These are not instructions but the actual steps I took. Doing screen shots as I went along.
+   I would go back time and time again making sure I captured all my work...hence Rev D.
+
+3. The Timeline is the beginning to end of the simulated project as the incident occured identifying the process of the attack.
