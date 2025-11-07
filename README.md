@@ -43,7 +43,7 @@ This Project includes the following tasks:
 
 <br />
 
-<h2>Tools Used</h2>
+<h2>🛠 Tools Used</h2>
 
 - Wireshark (network traffic analysis)
 - Splunk (log analysis)
