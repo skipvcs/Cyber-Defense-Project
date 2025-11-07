@@ -55,13 +55,12 @@ This Project includes the following tasks:
 - Linux operating system
 
 
-<h2>Description of files</h2>
+<h2>About the attached files</h2>
 
 1. The CISO.GUIDE FINAL REPORT:
    This is the SBAR created for the project
 
 2. The Task 6 Technical Appendix:
-   This the actual step by step actions I took to complete the project from beginning to end. These are not instructions but the actual steps I took. Doing screen shots as I went along.
-   I would go back time and time again making sure I captured all my work...hence Rev D.
+   This the actual step by step actions I took to complete the project from beginning to end. These are not instructions but the actual steps I took. Doing screen shots as I went along to be able to show my work and create something I can use in the future for reference.
 
 3. The Timeline is the beginning to end of the simulated project as the incident occured identifying the process of the attack.
